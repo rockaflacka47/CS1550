@@ -1,2 +1,0 @@
-My program works for everything as long as there are two or more files in the directory when you try to write to one. I did not have time
-to debug this but as soon as there are at least two files you can echo redirect or pico. 
